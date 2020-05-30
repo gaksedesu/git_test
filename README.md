@@ -1,0 +1,1 @@
+This is Gaksedesu’s first git project!
